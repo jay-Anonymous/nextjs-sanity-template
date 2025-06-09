@@ -24,7 +24,7 @@
     "@sanity/image-url": "^1.0.2",
     "@sanity/overlays": "^2.3.0",
     "@sanity/preview-url-secret": "^1.4.0",
-    "@sanity/react-loader": "1.6.4",
+    "@sanity/react-loader": "1.11.9",
     "@sanity/types": "^3.23.1",
     "@sanity/ui": "^1.9.3",
     "@sanity/vision": "^3.23.1",
